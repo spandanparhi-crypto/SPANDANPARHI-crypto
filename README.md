@@ -1,26 +1,26 @@
-<!-- Hacker Banner -->
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=2000&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=%3E+Spandan+Parhi;Python+Developer;Data+Science+Enthusiast;Machine+Learning+Engineer;Generative+AI+Explorer;Building+The+Future+With+AI" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=1800&pause=1000&color=39FF14&center=true&vCenter=true&width=1000&lines=%3E+Spandan+Parhi;Data+Science+Engineer;Machine+Learning+Enthusiast;Generative+AI+Explorer;Building+AI+Powered+Solutions;Welcome+To+My+GitHub+Profile" />
 
-</div>
+<h1>⚡ 𝗦𝗽𝗮𝗻𝗱𝗮𝗻 𝗣𝗮𝗿𝗵𝗶 ⚡</h1>
 
-<h3 align="center">
+<h3>
 🚀 Data Science Enthusiast | 🤖 Generative AI Learner | 💻 Python Developer
 </h3>
 
+</div>
+
 ---
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="AI Hacker" width="380" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 # 👨‍💻 About Me
 
 🎓 Electronics & Telecommunication Engineering Student
-📚 Learning Full Stack Data Science & Generative AI
+📊 Aspiring Data Scientist & AI Engineer
+🤖 Passionate about Generative AI, LLMs & Agentic AI
 🐍 Python Developer
-📊 Data Analytics & Power BI Enthusiast
-🤖 Passionate about AI, Machine Learning & LLMs
+📈 Power BI & Data Analytics Enthusiast
 🌱 Currently Learning
 
 - Machine Learning
@@ -30,7 +30,10 @@
 - CrewAI
 - Agentic AI
 
-📍 Hyderabad, India
+🚀 Goal:
+Build intelligent AI systems that solve real-world problems.
+
+📍 Odisha , India
 
 📧 Email: **spandanparhi019@gmail.com**
 
@@ -60,7 +63,7 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=spandanparhi-crypto&label=PROFILE+VIEWS&color=39FF14&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=spandanparhi-crypto&label=PROFILE+VIEWS&color=39FF14&style=for-the-badge"/>
 
 </p>
 
@@ -70,7 +73,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,html,css,javascript" />
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,html,css,javascript"/>
 
 </p>
 
@@ -96,23 +99,19 @@
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=spandanparhi-crypto&show_icons=true&theme=chartreuse-dark"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=spandanparhi-crypto&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spandanparhi-crypto&layout=compact&theme=chartreuse-dark"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=spandanparhi-crypto&theme=chartreuse-dark&hide_border=true"/>
 
 </p>
 
----
-
-# 🔥 GitHub Streak
-
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=spandanparhi-crypto&theme=chartreuse-dark"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spandanparhi-crypto&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 
 </p>
 
@@ -122,7 +121,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=spandanparhi-crypto&theme=matrix&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=spandanparhi-crypto&theme=matrix&no-frame=true&row=2&column=4"/>
 
 </p>
 
@@ -138,7 +137,7 @@
 
 ---
 
-# 💻 Coding Time
+# 💻 GitHub Summary
 
 <p align="center">
 
@@ -148,7 +147,17 @@
 
 ---
 
-# 💡 Quote
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/spandanparhi-crypto/spandanparhi-crypto/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 💡 Random Dev Quote
 
 <p align="center">
 
@@ -158,11 +167,33 @@
 
 ---
 
+# 🎯 Current Focus
+
+```python
+class SpandanParhi:
+
+    def __init__(self):
+        self.role = "Future AI Engineer"
+        self.language = ["Python", "SQL"]
+        self.interests = [
+            "Machine Learning",
+            "Generative AI",
+            "Agentic AI",
+            "Data Science",
+            "LLMs"
+        ]
+
+    def goal(self):
+        return "Transforming Data Into Intelligence 🚀"
+```
+
+---
+
 <div align="center">
 
-# ⚡ "Code. Learn. Build. Repeat." ⚡
+## 🚀 "Transforming Data Into Intelligence"
 
-### 🚀 Spandan Parhi
+### ⭐ Open Source Learner | AI Enthusiast | Future AI Engineer
 
 </div>
 
