@@ -2,8 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=1800&pause=1000&color=39FF14&center=true&vCenter=true&width=1000&lines=%3E+Spandan+Parhi;Data+Science+Engineer;Machine+Learning+Enthusiast;Generative+AI+Explorer;Building+AI+Powered+Solutions;Welcome+To+My+GitHub+Profile" />
 
-<h1>⚡ 𝗦𝗽𝗮𝗻𝗱𝗮𝗻 𝗣𝗮𝗿𝗵𝗶 ⚡</h1>
-
 <h3>
 🚀 Data Science Enthusiast | 🤖 Generative AI Learner | 💻 Python Developer
 </h3>
@@ -27,9 +25,6 @@
 📈 Power BI & Data Analytics Enthusiast
 
 🌱 Currently Learning
-- ❤️ Contributing to Open Source.
-- 💻 Visit my [Portfolio]https://juyk9fmq.mule.page/ for more details about me.
-<!--End Intro--
 
 - Machine Learning
 - Deep Learning
@@ -206,3 +201,7 @@ class SpandanParhi:
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=120&section=footer"/>
+
+- ❤️ Contributing to Open Source.
+- 💻 Visit my [Portfolio]https://juyk9fmq.mule.page/ for more details about me.
+<!--End Intro--
