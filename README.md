@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=1800&pause=1000&color=39FF14&center=true&vCenter=true&width=1000&lines=%3E+Spandan+Parhi;Data+Science+Engineer;Machine+Learning+Enthusiast;Generative+AI+Explorer;Building+AI+Powered+Solutions;Welcome+To+My+GitHub+Profile" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=1800&pause=1000&color=39FF14&center=true&vCenter=true&width=1000&lines=Spandan+Parhi;Data+Science+Engineer;Machine+Learning+Enthusiast;Generative+AI+Explorer;Building+AI+Powered+Solutions;Welcome+To+My+GitHub+Profile" />
 
-<h3>
-🚀 Data Science Enthusiast | 🤖 Generative AI Learner | 💻 Python Developer
-</h3>
+# 🚀 Data Science Engineer | 🤖 Generative AI Explorer | 📊 Machine Learning Enthusiast | 💻 Python Developer
 
 </div>
 
@@ -33,10 +31,9 @@
 - CrewAI
 - Agentic AI
 
-🚀 Goal:
-Build intelligent AI systems that solve real-world problems.
+🚀 Goal: Build intelligent AI systems that solve real-world problems.
 
-📍 Odisha , India
+📍 Odisha, India
 
 📧 Email: **spandanparhi019@gmail.com**
 
@@ -65,9 +62,7 @@ Build intelligent AI systems that solve real-world problems.
 # 👀 Profile Views
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=spandanparhi-crypto&label=PROFILE+VIEWS&color=39FF14&style=for-the-badge"/>
-
 </p>
 
 ---
@@ -75,9 +70,7 @@ Build intelligent AI systems that solve real-world problems.
 # ⚡ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,html,css,javascript"/>
-
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,html,css,javascript,pandas,numpy" />
 </p>
 
 ---
@@ -108,7 +101,7 @@ Build intelligent AI systems that solve real-world problems.
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=spandanparhi-crypto&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=spandanparhi-crypto&theme=chartreuse-dark&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=spandanparhi-crypto&theme=chartreuse-dark&hide_border=true"/>
 
 </p>
 
@@ -123,9 +116,7 @@ Build intelligent AI systems that solve real-world problems.
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=spandanparhi-crypto&theme=matrix&no-frame=true&row=2&column=4"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=spandanparhi-crypto&theme=matrix&no-frame=true&no-bg=true&margin-w=15"/>
 </p>
 
 ---
@@ -133,9 +124,7 @@ Build intelligent AI systems that solve real-world problems.
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=spandanparhi-crypto&theme=react-dark"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=spandanparhi-crypto&bg_color=0d1117&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true"/>
 </p>
 
 ---
@@ -143,19 +132,7 @@ Build intelligent AI systems that solve real-world problems.
 # 💻 GitHub Summary
 
 <p align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spandanparhi-crypto&theme=github_dark"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/spandanparhi-crypto/spandanparhi-crypto/output/github-contribution-grid-snake-dark.svg"/>
-
 </p>
 
 ---
@@ -163,9 +140,7 @@ Build intelligent AI systems that solve real-world problems.
 # 💡 Random Dev Quote
 
 <p align="center">
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-
 </p>
 
 ---
@@ -177,7 +152,7 @@ class SpandanParhi:
 
     def __init__(self):
         self.role = "Future AI Engineer"
-        self.language = ["Python", "SQL"]
+        self.languages = ["Python", "SQL"]
         self.interests = [
             "Machine Learning",
             "Generative AI",
@@ -194,14 +169,16 @@ class SpandanParhi:
 
 <div align="center">
 
-## 🚀 "Transforming Data Into Intelligence"
+## 🚀 Transforming Data Into Intelligence
 
 ### ⭐ Open Source Learner | AI Enthusiast | Future AI Engineer
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=120&section=footer"/>
+---
 
-- ❤️ Contributing to Open Source.
-- 💻 Visit my [Portfolio]https://juyk9fmq.mule.page/ for more details about me.
-<!--End Intro--
+### 💻 Portfolio
+
+🔗 https://juyk9fmq.mule.page/
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=120&section=footer"/>
