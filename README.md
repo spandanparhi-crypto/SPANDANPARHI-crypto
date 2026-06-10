@@ -116,11 +116,24 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=spandanparhi-crypto&theme=matrix&no-frame=true&no-bg=true&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=spandanparhi-crypto&theme=matrix&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 ---
 
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=spandanparhi-crypto&bg_color=0d1117&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=spandanparhi-crypto&theme=chartreuse-dark&hide_border=true" />
+</p>
 # 📈 Contribution Graph
 
 <p align="center">
