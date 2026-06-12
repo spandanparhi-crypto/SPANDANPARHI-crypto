@@ -183,6 +183,6 @@ class SpandanParhi:
 
 ### 💻 Portfolio
 
-🔗 https://juyk9fmq.mule.page/
+🔗 [https://juyk9fmq.mule.page/](https://spj64f8g.mule.page/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=120&section=footer"/>
