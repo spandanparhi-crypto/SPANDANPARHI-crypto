@@ -183,6 +183,6 @@ class SpandanParhi:
 
 ### 💻 Portfolio
 
-🔗 [[https://juyk9fmq.mule.page/](https://spj64f8g.mule.page/)](https://fragile-green-8utzxh0t.edgeone.dev/)
+🔗 (https://fragile-green-8utzxh0t.edgeone.dev/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=120&section=footer"/>
