@@ -90,17 +90,45 @@ contact: spandanparhi019@gmail.com
 
 ---
 
-## 🐍 Contribution Snake
+# 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/spandanparhi-crypto/spandanparhi-crypto/output/github-contribution-grid-snake-dark.svg"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=spandanparhi-crypto&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=spandanparhi-crypto&theme=chartreuse-dark&hide_border=true"/>
+
 </p>
 
-> 💡 To activate this snake animation, add the `snk` GitHub Action workflow to your profile repo — it auto-generates and commits this SVG on a schedule.
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spandanparhi-crypto&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+
+</p>
+
+---
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=spandanparhi-crypto&bg_color=0d1117&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true" />
+</p>
 
 ---
 
-## 💻 GitHub Summary
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=spandanparhi-crypto&theme=chartreuse-dark&hide_border=true" />
+</p>
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=spandanparhi-crypto&bg_color=0d1117&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true"/>
+</p>
+
+---
+
+# 💻 GitHub Summary
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spandanparhi-crypto&theme=github_dark"/>
@@ -108,7 +136,7 @@ contact: spandanparhi019@gmail.com
 
 ---
 
-## 💡 Random Dev Quote
+# 💡 Random Dev Quote
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
@@ -116,17 +144,16 @@ contact: spandanparhi019@gmail.com
 
 ---
 
-## 🎯 Current Focus
+# 🎯 Current Focus
 
 ```python
 class SpandanParhi:
+
     def __init__(self):
         self.role = "Future AI Engineer"
         self.languages = ["Python", "SQL"]
-        self.frameworks = ["LangChain", "LangGraph", "CrewAI"]
         self.interests = [
             "Machine Learning",
-            "Deep Learning",
             "Generative AI",
             "Agentic AI",
             "Data Science",
@@ -135,25 +162,22 @@ class SpandanParhi:
 
     def goal(self):
         return "Transforming Data Into Intelligence 🚀"
-
-    def status(self):
-        return "🟢 Online | Building AI-powered solutions"
-
-
-me = SpandanParhi()
-print(me.goal())
 ```
 
 ---
 
 <div align="center">
 
-### 🚀 Transforming Data Into Intelligence
+## 🚀 Transforming Data Into Intelligence
 
-⭐ **Open Source Learner** &nbsp;|&nbsp; 🤖 **AI Enthusiast** &nbsp;|&nbsp; 🔮 **Future AI Engineer**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+intelligent+together+%F0%9F%A4%9D" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:0d1117&height=120&section=footer"/>
+### ⭐ Open Source Learner | AI Enthusiast | Future AI Engineer
 
 </div>
+
+---
+
+### 💻 Portfolio
+
+🔗 (https://fragile-green-8utzxh0t.edgeone.dev/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=120&section=footer"/>
