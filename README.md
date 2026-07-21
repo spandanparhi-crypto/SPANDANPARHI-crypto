@@ -1,365 +1,410 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8"/>
-<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<title>Spandan Parhi — GitHub Profile</title>
-<link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;700&family=Orbitron:wght@400;700;900&family=Space+Grotesk:wght@300;400;500;700&display=swap" rel="stylesheet"/>
-<style>
-*{margin:0;padding:0;box-sizing:border-box;}
-:root{--g:#39FF14;--c:#00FFFF;--m:#B44FE8;--o:#FF6B35;--dk:#080c10;--dk2:#0d1117;--dk3:#161b22;--card:#0e1318;--card2:#111827;}
-body{background:var(--dk2);color:#cdd9e5;font-family:'Space Grotesk',sans-serif;overflow-x:hidden;}
-.wrap{max-width:680px;margin:0 auto;padding:20px 16px;}
+<div align="center">
 
-/* ── HERO ── */
-.hero{position:relative;border-radius:20px;padding:36px 28px 28px;margin-bottom:16px;overflow:hidden;background:var(--dk);text-align:center;}
-.hero-border{position:absolute;inset:0;border-radius:20px;padding:1.5px;background:conic-gradient(from 0deg,var(--g),var(--c),var(--m),var(--o),var(--g));-webkit-mask:linear-gradient(#fff 0 0) content-box,linear-gradient(#fff 0 0);-webkit-mask-composite:destination-out;mask-composite:exclude;animation:borderSpin 4s linear infinite;}
-@keyframes borderSpin{to{transform:rotate(360deg);}}
-.hero-glow{position:absolute;top:-40px;left:50%;transform:translateX(-50%);width:320px;height:160px;background:radial-gradient(ellipse,rgba(57,255,20,0.12) 0%,transparent 70%);pointer-events:none;}
-.scanline{position:absolute;top:0;left:0;right:0;height:1.5px;background:linear-gradient(90deg,transparent 0%,var(--g) 50%,transparent 100%);animation:scan 2.5s linear infinite;opacity:0.7;}
-@keyframes scan{0%{top:-2px;opacity:0.7;}80%{opacity:0.7;}100%{top:102%;opacity:0;}}
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=&animation=fadeIn&fontColor=ffffff&fontSize=50" width="100%" />
 
-/* ── AVATAR ── */
-.av-wrap{width:100px;height:100px;margin:0 auto 18px;position:relative;}
-.av-ring{position:absolute;inset:-5px;border-radius:50%;background:conic-gradient(var(--g),var(--c),var(--m),var(--o),var(--g));animation:ringrot 3s linear infinite;}
-.av-ring-mask{position:absolute;inset:3px;border-radius:50%;background:var(--dk);}
-.av-pulse{position:absolute;inset:-14px;border-radius:50%;border:1.5px solid rgba(57,255,20,0.3);animation:pulse 2s ease-out infinite;}
-@keyframes pulse{0%{transform:scale(0.94);opacity:0.8;}100%{transform:scale(1.18);opacity:0;}}
-@keyframes ringrot{to{transform:rotate(360deg);}}
-.av-inner{position:absolute;inset:5px;border-radius:50%;background:linear-gradient(135deg,#0f2010,#0d1117);display:flex;align-items:center;justify-content:center;font-size:40px;z-index:2;}
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Senior+Software+Engineer;AI+%2F+ML+Engineer+%7C+Full+Stack+Builder;Product-Minded+%7C+Systems-First;Turning+Ideas+into+Production+Systems)](https://git.io/typing-svg)
 
-/* ── HERO TEXT ── */
-.hero-name{font-family:'Orbitron',monospace;font-size:22px;font-weight:900;letter-spacing:3px;margin-bottom:5px;color:#e8f4e8;}
-.hero-name .hi{color:var(--g);text-shadow:0 0 24px rgba(57,255,20,0.55);}
-.hero-sub{font-family:'Fira Code',monospace;font-size:11px;color:var(--c);letter-spacing:2px;margin-bottom:14px;opacity:0.8;}
-.typing-row{font-family:'Fira Code',monospace;font-size:13px;color:#e8f4e8;margin-bottom:18px;min-height:22px;}
-.typing-row .bracket{color:var(--g);opacity:0.6;}
-.cur{display:inline-block;width:2px;height:14px;background:var(--c);margin-left:1px;vertical-align:middle;animation:blink 0.75s step-end infinite;}
-@keyframes blink{0%,100%{opacity:1;}50%{opacity:0;}}
+<br/>
 
-/* ── BADGES ── */
-.badge-row{display:flex;flex-wrap:wrap;gap:6px;justify-content:center;margin-bottom:16px;}
-.badge{padding:4px 11px;border-radius:20px;font-size:10px;font-weight:600;letter-spacing:0.8px;font-family:'Fira Code',monospace;}
-.bg{color:var(--g);border:1px solid rgba(57,255,20,0.4);background:rgba(57,255,20,0.07);}
-.bc{color:var(--c);border:1px solid rgba(0,255,255,0.35);background:rgba(0,255,255,0.06);}
-.bm{color:var(--m);border:1px solid rgba(180,79,232,0.4);background:rgba(180,79,232,0.07);}
-.bo{color:var(--o);border:1px solid rgba(255,107,53,0.4);background:rgba(255,107,53,0.07);}
+![B.Tech CSE](https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white)
+![IIT/NIT](https://img.shields.io/badge/Institute-Premier%20Engineering%20College-6D28D9?style=flat-square&logo=university&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-9.2%2F10-5B21B6?style=flat-square&logo=academia&logoColor=white)
 
-/* ── META ROW ── */
-.meta-row{display:flex;justify-content:center;align-items:center;gap:18px;flex-wrap:wrap;font-family:'Fira Code',monospace;font-size:11px;color:#8b949e;}
-.meta-row span{display:flex;align-items:center;gap:6px;}
-.dot-sm{width:5px;height:5px;border-radius:50%;}
+<br/>
 
-/* ── SECTIONS ── */
-.sec{background:var(--card);border:1px solid #1e2730;border-radius:14px;padding:18px 20px;margin-bottom:14px;position:relative;overflow:hidden;transition:border-color 0.25s,transform 0.2s;}
-.sec:hover{border-color:rgba(57,255,20,0.3);transform:translateY(-2px);}
-.sec-top-line{position:absolute;top:0;left:0;right:0;height:1px;background:linear-gradient(90deg,transparent,var(--g),transparent);opacity:0;transition:opacity 0.3s;}
-.sec:hover .sec-top-line{opacity:0.6;}
+![Location](https://img.shields.io/badge/📍-India-4C1D95?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-22C55E?style=flat-square)
 
-/* ── SECTION HEADINGS ── */
-.sh{font-family:'Orbitron',monospace;font-size:11px;font-weight:700;letter-spacing:1.5px;margin-bottom:16px;display:flex;align-items:center;gap:8px;}
-.sh-g{color:var(--g);}
-.sh-c{color:var(--c);}
-.sh-m{color:var(--m);}
-.sh-o{color:var(--o);}
-.sh-arr{font-size:8px;opacity:0.45;}
+<br/>
 
-/* ── CODE BLOCK ── */
-.code-block{background:#060a0e;border:1px solid #1e2730;border-radius:10px;padding:18px;font-family:'Fira Code',monospace;font-size:12px;line-height:1.95;position:relative;}
-.code-block::after{content:'python';position:absolute;top:8px;right:14px;font-family:'Orbitron',monospace;font-size:9px;color:#3d4f5e;letter-spacing:1px;}
-.kw{color:#ff79c6;}
-.fn{color:#50fa7b;}
-.st{color:#8be9fd;}
-.cm{color:#44475a;font-style:italic;}
-.nv{color:var(--g);}
-.nb{color:#ffb86c;}
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 
-/* ── LEARNING GRID ── */
-.learn-grid{display:grid;grid-template-columns:1fr 1fr;gap:8px;}
-.learn-item{display:flex;align-items:center;gap:10px;padding:10px 14px;background:#060a0e;border-radius:10px;border:1px solid #1e2730;font-family:'Fira Code',monospace;font-size:11px;color:#8b949e;transition:all 0.25s;}
-.learn-item:hover{border-color:var(--m);color:var(--m);background:rgba(180,79,232,0.05);}
-.ld{width:6px;height:6px;border-radius:50%;flex-shrink:0;}
+<br/>
 
-/* ── SKILL GRID ── */
-.skill-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;}
-.skill-chip{background:#060a0e;border:1px solid #1e2730;border-radius:10px;padding:12px 8px;text-align:center;font-family:'Fira Code',monospace;font-size:10px;color:#8b949e;transition:all 0.25s;cursor:default;}
-.skill-chip:hover{transform:translateY(-3px);}
-.skill-chip .em{font-size:24px;display:block;margin-bottom:6px;}
-.skill-chip.sg:hover{border-color:var(--g);color:var(--g);background:rgba(57,255,20,0.04);}
-.skill-chip.sc:hover{border-color:var(--c);color:var(--c);background:rgba(0,255,255,0.04);}
-.skill-chip.sm:hover{border-color:var(--m);color:var(--m);background:rgba(180,79,232,0.04);}
-.skill-chip.so:hover{border-color:var(--o);color:var(--o);background:rgba(255,107,53,0.04);}
-
-/* ── SKILL BARS ── */
-.bar-wrap{margin-bottom:12px;}
-.bar-head{display:flex;justify-content:space-between;font-family:'Fira Code',monospace;font-size:11px;margin-bottom:6px;}
-.bar-name{color:#cdd9e5;}
-.bar-pct{color:var(--g);}
-.bar-track{height:4px;background:#1e2730;border-radius:4px;overflow:hidden;}
-.bar-fill{height:100%;border-radius:4px;width:0;transition:width 1.4s cubic-bezier(0.4,0,0.2,1);}
-.bf-g{background:linear-gradient(90deg,var(--g),var(--c));}
-.bf-c{background:linear-gradient(90deg,var(--c),var(--m));}
-.bf-m{background:linear-gradient(90deg,var(--m),var(--o));}
-
-/* ── STAT CARDS ── */
-.stat-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;}
-.stat-card{background:#060a0e;border:1px solid #1e2730;border-radius:10px;padding:14px 8px;text-align:center;transition:all 0.25s;}
-.stat-card:hover{border-color:var(--c);transform:scale(1.05);}
-.snum{font-family:'Orbitron',monospace;font-size:18px;font-weight:700;color:var(--g);display:block;margin-bottom:4px;}
-.slbl{font-family:'Fira Code',monospace;font-size:9px;color:#44546a;letter-spacing:0.5px;}
-
-/* ── GOAL BOX ── */
-.goal-box{background:linear-gradient(135deg,rgba(57,255,20,0.04),rgba(0,255,255,0.04));border:1px solid rgba(57,255,20,0.2);border-radius:12px;padding:20px;text-align:center;}
-.goal-txt{font-family:'Orbitron',monospace;font-size:13px;color:var(--g);letter-spacing:1px;line-height:1.7;}
-.goal-sub{font-family:'Fira Code',monospace;font-size:11px;color:#44546a;margin-top:10px;letter-spacing:0.5px;}
-
-/* ── CONNECT ── */
-.connect-row{display:flex;gap:8px;margin-bottom:10px;}
-.cbtn{flex:1;padding:12px 8px;border-radius:10px;text-align:center;border:1px solid;font-family:'Fira Code',monospace;font-size:11px;cursor:pointer;transition:all 0.25s;text-decoration:none;display:flex;align-items:center;justify-content:center;gap:7px;font-weight:500;}
-.cb1{color:#0a84ff;border-color:rgba(10,132,255,0.35);background:rgba(10,132,255,0.05);}
-.cb1:hover{background:rgba(10,132,255,0.14);border-color:#0a84ff;}
-.cb2{color:#e6edf3;border-color:rgba(230,237,243,0.2);background:rgba(255,255,255,0.03);}
-.cb2:hover{border-color:var(--g);color:var(--g);background:rgba(57,255,20,0.05);}
-.cb3{color:#ff4545;border-color:rgba(255,69,69,0.35);background:rgba(255,69,69,0.05);}
-.cb3:hover{background:rgba(255,69,69,0.14);border-color:#ff4545;}
-.portfolio-btn{display:block;width:100%;padding:14px;border-radius:12px;text-align:center;border:1px solid rgba(57,255,20,0.3);background:rgba(57,255,20,0.04);font-family:'Orbitron',monospace;font-size:11px;color:var(--g);letter-spacing:2px;cursor:pointer;transition:all 0.3s;text-decoration:none;}
-.portfolio-btn:hover{background:rgba(57,255,20,0.1);border-color:var(--g);letter-spacing:3px;}
-
-/* ── FOOTER ── */
-.footer{text-align:center;padding:18px 0 6px;font-family:'Fira Code',monospace;font-size:11px;color:#3d4f5e;border-top:1px solid #1e2730;margin-top:4px;}
-.footer strong{color:var(--g);}
-.footer-dots{display:flex;justify-content:center;gap:7px;margin-top:10px;}
-.fd{width:4px;height:4px;border-radius:50%;animation:fdot 1.5s ease-in-out infinite;}
-.fd:nth-child(1){background:var(--g);}
-.fd:nth-child(2){background:var(--c);animation-delay:0.3s;}
-.fd:nth-child(3){background:var(--m);animation-delay:0.6s;}
-@keyframes fdot{0%,100%{transform:scale(1);opacity:0.4;}50%{transform:scale(1.6);opacity:1;}}
-</style>
-</head>
-<body>
-<div class="wrap">
-
-  <!-- HERO -->
-  <div class="hero">
-    <div class="hero-border"></div>
-    <div class="hero-glow"></div>
-    <div class="scanline"></div>
-
-    <div class="av-wrap">
-      <div class="av-ring"></div>
-      <div class="av-ring-mask"></div>
-      <div class="av-pulse"></div>
-      <div class="av-inner">🤖</div>
-    </div>
-
-    <div class="hero-name">SPANDAN <span class="hi">PARHI</span></div>
-    <div class="hero-sub">// ECE STUDENT · AI ENGINEER · PYTHON DEVELOPER</div>
-    <div class="typing-row">
-      <span class="bracket">&gt;&gt;&gt; </span><span id="typ"></span><span class="cur"></span>
-    </div>
-
-    <div class="badge-row">
-      <span class="badge bg">Data Science</span>
-      <span class="badge bc">Generative AI</span>
-      <span class="badge bm">LLMs</span>
-      <span class="badge bo">Machine Learning</span>
-      <span class="badge bg">Agentic AI</span>
-      <span class="badge bc">Power BI</span>
-      <span class="badge bm">LangChain</span>
-      <span class="badge bo">LangGraph</span>
-    </div>
-
-    <div class="meta-row">
-      <span><div class="dot-sm" style="background:var(--g)"></div>📍 Odisha, India</span>
-      <span style="color:#1e2730">|</span>
-      <span><div class="dot-sm" style="background:var(--c)"></div>📧 spandanparhi019@gmail.com</span>
-    </div>
-  </div>
-
-  <!-- ABOUT -->
-  <div class="sec">
-    <div class="sec-top-line"></div>
-    <div class="sh sh-g"><span class="sh-arr">▶</span> About Me</div>
-    <div class="code-block">
-<span class="cm"># Electronics &amp; Telecom → AI Engineer pipeline</span><br>
-<span class="kw">class</span> <span class="fn">SpandanParhi</span>:<br>
-&nbsp;&nbsp;<span class="kw">def</span> <span class="fn">__init__</span>(<span class="nv">self</span>):<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<span class="nv">self</span>.degree &nbsp;= <span class="st">"Electronics &amp; Telecom Engg."</span><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<span class="nv">self</span>.role &nbsp;&nbsp;&nbsp;= <span class="st">"Aspiring Data Scientist &amp; AI Engineer"</span><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<span class="nv">self</span>.stack &nbsp;&nbsp;= [<span class="st">"Python"</span>, <span class="st">"SQL"</span>, <span class="st">"PowerBI"</span>]<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<span class="nv">self</span>.passion = <span class="st">"Generative AI + Agentic Systems"</span><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<span class="nv">self</span>.location = <span class="st">"Odisha, India 🇮🇳"</span><br><br>
-&nbsp;&nbsp;<span class="kw">def</span> <span class="fn">goal</span>(<span class="nv">self</span>):<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<span class="kw">return</span> <span class="nb">f</span><span class="st">"Transforming Data Into Intelligence 🚀"</span>
-    </div>
-  </div>
-
-  <!-- CURRENTLY LEARNING -->
-  <div class="sec">
-    <div class="sec-top-line"></div>
-    <div class="sh sh-m"><span class="sh-arr">▶</span> Currently Learning</div>
-    <div class="learn-grid">
-      <div class="learn-item"><div class="ld" style="background:var(--g);box-shadow:0 0 6px var(--g)"></div>Machine Learning</div>
-      <div class="learn-item"><div class="ld" style="background:var(--c);box-shadow:0 0 6px var(--c)"></div>Deep Learning</div>
-      <div class="learn-item"><div class="ld" style="background:var(--m);box-shadow:0 0 6px var(--m)"></div>LangChain</div>
-      <div class="learn-item"><div class="ld" style="background:var(--o);box-shadow:0 0 6px var(--o)"></div>LangGraph</div>
-      <div class="learn-item"><div class="ld" style="background:var(--g);box-shadow:0 0 6px var(--g)"></div>CrewAI</div>
-      <div class="learn-item"><div class="ld" style="background:var(--c);box-shadow:0 0 6px var(--c)"></div>Agentic AI</div>
-    </div>
-  </div>
-
-  <!-- TECH STACK -->
-  <div class="sec">
-    <div class="sec-top-line"></div>
-    <div class="sh sh-c"><span class="sh-arr">▶</span> Tech Stack</div>
-    <div class="skill-grid">
-      <div class="skill-chip sg"><span class="em">🐍</span>Python</div>
-      <div class="skill-chip sc"><span class="em">🗄️</span>MySQL</div>
-      <div class="skill-chip sm"><span class="em">📊</span>Power BI</div>
-      <div class="skill-chip so"><span class="em">🤖</span>LangChain</div>
-      <div class="skill-chip sg"><span class="em">🧠</span>LangGraph</div>
-      <div class="skill-chip sc"><span class="em">👥</span>CrewAI</div>
-      <div class="skill-chip sm"><span class="em">🔢</span>NumPy</div>
-      <div class="skill-chip so"><span class="em">🐼</span>Pandas</div>
-      <div class="skill-chip sg"><span class="em">🐙</span>GitHub</div>
-      <div class="skill-chip sc"><span class="em">🌐</span>HTML</div>
-      <div class="skill-chip sm"><span class="em">🎨</span>CSS</div>
-      <div class="skill-chip so"><span class="em">⚡</span>JavaScript</div>
-    </div>
-  </div>
-
-  <!-- SKILL PROFICIENCY -->
-  <div class="sec">
-    <div class="sec-top-line"></div>
-    <div class="sh sh-o"><span class="sh-arr">▶</span> Skill Proficiency</div>
-    <div id="bars">
-      <div class="bar-wrap">
-        <div class="bar-head"><span class="bar-name">Python</span><span class="bar-pct">92%</span></div>
-        <div class="bar-track"><div class="bar-fill bf-g" data-w="92"></div></div>
-      </div>
-      <div class="bar-wrap">
-        <div class="bar-head"><span class="bar-name">Machine Learning</span><span class="bar-pct">78%</span></div>
-        <div class="bar-track"><div class="bar-fill bf-c" data-w="78"></div></div>
-      </div>
-      <div class="bar-wrap">
-        <div class="bar-head"><span class="bar-name">Generative AI / LLMs</span><span class="bar-pct">74%</span></div>
-        <div class="bar-track"><div class="bar-fill bf-m" data-w="74"></div></div>
-      </div>
-      <div class="bar-wrap">
-        <div class="bar-head"><span class="bar-name">Power BI &amp; Data Analytics</span><span class="bar-pct">81%</span></div>
-        <div class="bar-track"><div class="bar-fill bf-g" data-w="81"></div></div>
-      </div>
-      <div class="bar-wrap">
-        <div class="bar-head"><span class="bar-name">SQL</span><span class="bar-pct">76%</span></div>
-        <div class="bar-track"><div class="bar-fill bf-c" data-w="76"></div></div>
-      </div>
-      <div class="bar-wrap">
-        <div class="bar-head"><span class="bar-name">LangChain / LangGraph</span><span class="bar-pct">65%</span></div>
-        <div class="bar-track"><div class="bar-fill bf-m" data-w="65"></div></div>
-      </div>
-    </div>
-  </div>
-
-  <!-- GITHUB STATS -->
-  <div class="sec">
-    <div class="sec-top-line"></div>
-    <div class="sh sh-g"><span class="sh-arr">▶</span> GitHub Stats</div>
-    <div class="stat-grid">
-      <div class="stat-card"><span class="snum" id="s1">0</span><div class="slbl">COMMITS</div></div>
-      <div class="stat-card"><span class="snum" id="s2">0</span><div class="slbl">REPOS</div></div>
-      <div class="stat-card"><span class="snum" id="s3">0</span><div class="slbl">STARS</div></div>
-      <div class="stat-card"><span class="snum" id="s4">0</span><div class="slbl">CONTRIB</div></div>
-    </div>
-  </div>
-
-  <!-- GOAL -->
-  <div class="sec">
-    <div class="sec-top-line"></div>
-    <div class="sh sh-c"><span class="sh-arr">▶</span> Goal &amp; Vision</div>
-    <div class="goal-box">
-      <div class="goal-txt">🚀 BUILD INTELLIGENT AI SYSTEMS<br>THAT SOLVE REAL-WORLD PROBLEMS</div>
-      <div class="goal-sub">Open Source Learner · AI Enthusiast · Future AI Engineer</div>
-    </div>
-  </div>
-
-  <!-- CONNECT -->
-  <div class="sec">
-    <div class="sec-top-line"></div>
-    <div class="sh sh-m"><span class="sh-arr">▶</span> Connect With Me</div>
-    <div class="connect-row">
-      <a class="cbtn cb1" href="https://www.linkedin.com/in/spandan-parhi-852011414" target="_blank">💼 LinkedIn</a>
-      <a class="cbtn cb2" href="https://github.com/spandanparhi-crypto" target="_blank">⚡ GitHub</a>
-      <a class="cbtn cb3" href="mailto:spandanparhi019@gmail.com">✉️ Gmail</a>
-    </div>
-    <a class="portfolio-btn" href="https://fragile-green-8utzxh0t.edgeone.dev/" target="_blank">🌐 VIEW PORTFOLIO</a>
-  </div>
-
-  <!-- FOOTER -->
-  <div class="footer">
-    <strong>⚡ SPANDAN PARHI</strong> · Transforming Data Into Intelligence
-    <div class="footer-dots">
-      <div class="fd"></div>
-      <div class="fd"></div>
-      <div class="fd"></div>
-    </div>
-  </div>
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=7C3AED&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/yourusername?color=6D28D9&style=flat-square&logo=github&label=Followers)
+![GitHub stars](https://img.shields.io/github/stars/yourusername?color=5B21B6&style=flat-square&logo=github&label=Total+Stars)
 
 </div>
 
-<script>
-// Typewriter
-const roles = [
-  "Data Science Engineer 📊",
-  "Machine Learning Enthusiast 🧠",
-  "Generative AI Explorer 🤖",
-  "Agentic AI Builder ⚡",
-  "Python Developer 🐍",
-  "Building AI-Powered Solutions 🚀"
-];
-let ri = 0, ci = 0, del = false;
-const el = document.getElementById('typ');
-function type() {
-  const r = roles[ri];
-  if (!del) {
-    el.textContent = r.slice(0, ++ci);
-    if (ci === r.length) { del = true; setTimeout(type, 2000); return; }
-  } else {
-    el.textContent = r.slice(0, --ci);
-    if (ci === 0) { del = false; ri = (ri + 1) % roles.length; }
-  }
-  setTimeout(type, del ? 40 : 80);
-}
-type();
+---
 
-// Count-up stats
-function countUp(id, end, dur) {
-  const e = document.getElementById(id);
-  let c = 0;
-  const step = end / 60;
-  const t = setInterval(() => {
-    c += step;
-    if (c >= end) { e.textContent = end + (end >= 100 ? '+' : ''); clearInterval(t); }
-    else e.textContent = Math.round(c);
-  }, dur / 60);
-}
-setTimeout(() => {
-  countUp('s1', 150, 1200);
-  countUp('s2', 18, 1000);
-  countUp('s3', 42, 1100);
-  countUp('s4', 200, 1300);
-}, 800);
+## ◈ About
 
-// Skill bars on scroll
-const ob = new IntersectionObserver(es => {
-  es.forEach(e => {
-    if (e.isIntersecting) {
-      e.target.querySelectorAll('.bar-fill').forEach(b => b.style.width = b.dataset.w + '%');
-      ob.unobserve(e.target);
-    }
-  });
-}, { threshold: 0.3 });
-const bd = document.getElementById('bars');
-if (bd) ob.observe(bd);
-</script>
-</body>
-</html>
+I am a Senior Software Engineer with a deep specialization in **AI/ML systems**, **distributed backends**, and **full-stack product engineering**. My engineering philosophy centers on building systems that are observable, scalable, and production-ready from day one — not as an afterthought.
+
+I design and ship intelligent software across the stack: from fine-tuning large language models and building retrieval-augmented pipelines, to architecting microservice backends and crafting high-performance frontend experiences. I treat software engineering as a craft, and I bring a product mindset to every system I build.
+
+Over the years I have contributed to systems serving millions of users — optimizing inference latency, reducing infrastructure costs, and improving developer experience at scale. I value clean abstractions, rigorous code review, and documentation that engineers actually read.
+
+My approach: **understand the problem deeply → design with constraints in mind → ship iteratively → observe and improve**.
+
+<br/>
+
+**Open To:**
+`Full-Time SWE Roles` &nbsp;|&nbsp; `AI/ML Engineering` &nbsp;|&nbsp; `Backend / Platform Engineering` &nbsp;|&nbsp; `Open Source Collaboration` &nbsp;|&nbsp; `Technical Advisory`
+
+---
+
+## ◈ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+[![Languages](https://skillicons.dev/icons?i=python,typescript,javascript,go,java,cpp,rust,bash&theme=dark)](https://skillicons.dev)
+
+**Frontend**
+
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,html,css,figma,vite&theme=dark)](https://skillicons.dev)
+
+**Backend & Databases**
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,fastapi,django,graphql,postgres,mongodb,redis,kafka&theme=dark)](https://skillicons.dev)
+
+**Cloud, DevOps & Tooling**
+
+[![DevOps](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,github,linux,nginx&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+## ◈ AI / ML Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+|:---|:---:|:---|
+| Large Language Models | ████████████ Expert | GPT-4, Claude, Llama 3, Mistral — fine-tuning, alignment, RLHF |
+| Retrieval-Augmented Generation | ████████████ Expert | Vector DBs, chunking strategies, hybrid search, reranking |
+| ML Infrastructure | ███████████░ Advanced | MLflow, W&B, SageMaker, model serving, A/B experimentation |
+| Computer Vision | ██████████░░ Advanced | YOLO, SAM, ViT, image segmentation, real-time inference |
+| NLP & Text Processing | ████████████ Expert | Transformers, embeddings, classification, entity extraction |
+| Reinforcement Learning | ████████░░░░ Proficient | PPO, DQN, multi-agent environments, reward shaping |
+| Generative AI (Multimodal) | ███████████░ Advanced | Stable Diffusion, DALL·E, audio-visual pipelines |
+| AI System Design | ████████████ Expert | Latency optimization, cost reduction, eval frameworks |
+
+</div>
+
+---
+
+## ◈ Featured Projects
+
+<details>
+<summary><strong>⬡ &nbsp; Nexus — Enterprise RAG Platform</strong></summary>
+
+<br/>
+
+A production-grade Retrieval-Augmented Generation platform enabling enterprises to query their proprietary knowledge bases using natural language. Built with multi-tenant architecture, sub-200ms retrieval latency, and a pluggable connector framework supporting 30+ data sources including Confluence, Notion, Salesforce, and Google Drive.
+
+<br/>
+
+| Attribute | Detail |
+|:---|:---|
+| **Stack** | Python · FastAPI · LangChain · Pinecone · PostgreSQL · Redis · React · TypeScript |
+| **Scale** | 500K+ queries/month · 12M+ indexed documents · 40+ enterprise tenants |
+| **Performance** | P95 retrieval latency < 180ms · 99.97% uptime SLA |
+| **Security** | SOC 2 Type II posture · tenant data isolation · PII redaction pipeline |
+| **Impact** | Reduced support ticket volume by 62% · $1.4M ARR contribution |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername/nexus-rag) |
+
+Nexus introduced a novel **contextual chunking algorithm** that accounts for document structure semantics rather than naive token boundaries, improving retrieval precision by 34% over baseline. The platform includes a real-time eval harness, admin observability dashboard, and LLM-agnostic inference layer allowing hot-swapping between providers without downtime.
+
+<br/>
+</details>
+
+<details>
+<summary><strong>⬡ &nbsp; Helix — Distributed Task Orchestration Engine</strong></summary>
+
+<br/>
+
+A fault-tolerant, distributed workflow orchestration engine designed for high-throughput ML pipelines and data engineering workloads. Helix provides a declarative DAG DSL, exactly-once execution guarantees, dynamic worker autoscaling, and a rich UI for pipeline observability and debugging.
+
+<br/>
+
+| Attribute | Detail |
+|:---|:---|
+| **Stack** | Go · gRPC · Apache Kafka · Redis Streams · PostgreSQL · React · Prometheus · Grafana |
+| **Scale** | 2M+ task executions/day · 300+ concurrent pipelines · 50-node worker clusters |
+| **Performance** | Task scheduling latency < 12ms · horizontal scale to 1000+ workers |
+| **Security** | mTLS between services · RBAC for pipeline access · audit log compliance |
+| **Impact** | Replaced Airflow for 3 internal teams · reduced infra cost by 41% |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername/helix-orchestrator) |
+
+Helix uses a **leaderless consensus protocol** for worker coordination, eliminating single points of failure present in traditional master-worker architectures. The scheduler implements priority-based preemption, enabling SLA-critical tasks to interrupt lower-priority work dynamically. Pipeline definitions are version-controlled with rollback support and blue/green deployment semantics.
+
+<br/>
+</details>
+
+<details>
+<summary><strong>⬡ &nbsp; Prism — Real-Time Analytics & Experimentation Platform</strong></summary>
+
+<br/>
+
+A full-stack experimentation and analytics platform enabling product and engineering teams to run statistically rigorous A/B tests, feature flag rollouts, and multivariate experiments with real-time dashboards, automated stopping rules, and Bayesian inference engines.
+
+<br/>
+
+| Attribute | Detail |
+|:---|:---|
+| **Stack** | TypeScript · Next.js · Python · FastAPI · ClickHouse · Kafka · Redis · Tailwind |
+| **Scale** | 80M+ events/day · 200+ concurrent experiments · real-time aggregation at < 2s lag |
+| **Performance** | Dashboard queries P99 < 300ms · stream processing throughput 50K events/sec |
+| **Security** | Data anonymization at ingestion · GDPR-compliant event architecture |
+| **Impact** | Accelerated experiment velocity by 3x · improved decision confidence across 6 teams |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername/prism-analytics) |
+
+Prism's inference engine supports both frequentist (t-test, chi-squared) and Bayesian approaches, with automated traffic allocation based on observed effect sizes. The platform includes a **novelty effect detector** that flags early experiment data skewed by user curiosity, preventing premature conclusions that have historically misled product decisions.
+
+<br/>
+</details>
+
+<details>
+<summary><strong>⬡ &nbsp; Cipher — Zero-Trust API Security Gateway</strong></summary>
+
+<br/>
+
+A programmable API security gateway implementing zero-trust networking principles, adaptive rate limiting, threat intelligence integration, and per-request cryptographic signing. Designed to sit at the edge of microservice architectures as a transparent security enforcement layer.
+
+<br/>
+
+| Attribute | Detail |
+|:---|:---|
+| **Stack** | Rust · Tokio · NGINX · Lua · Redis · PostgreSQL · Prometheus · OpenTelemetry |
+| **Scale** | 15K+ req/sec per node · horizontally shardable · < 1ms overhead per request |
+| **Performance** | P99 gateway overhead < 800μs · zero-copy request buffering |
+| **Security** | mTLS, JWT validation, HMAC signing, IP reputation, ML-based anomaly detection |
+| **Impact** | Blocked 99.3% of automated attack traffic · achieved ISO 27001 compliance posture |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername/cipher-gateway) |
+
+Cipher introduced an **adaptive rate limiting algorithm** that adjusts per-client limits based on historical behavior and real-time risk scores, reducing false positive blocks by 78% compared to static threshold systems. The ML anomaly detection module runs on-gateway in WASM, enabling sub-millisecond threat classification without external network calls.
+
+<br/>
+</details>
+
+---
+
+## ◈ Experience
+
+<br/>
+
+**Senior Software Engineer — AI Platform**
+`Stealth-Mode AI Startup` &nbsp;·&nbsp; `2023 – Present` &nbsp;·&nbsp; Remote
+
+Led the design and delivery of a multi-tenant LLM inference platform serving 500K+ API requests per day across enterprise clients. Owned the full lifecycle: architecture, implementation, observability, and production on-call rotation.
+
+- Architected a model routing layer that dynamically selects between 6 LLM providers based on latency SLAs, cost targets, and capability requirements — reducing inference spend by 38%
+- Built a streaming response pipeline with partial result caching, cutting median time-to-first-token from 1.8s to 340ms
+- Designed the platform's evaluation harness, enabling continuous regression testing across 1,200+ prompt fixtures per deployment
+- Mentored a team of 4 engineers and established code review standards adopted org-wide
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C1C1C?style=flat-square&logo=chainlink&logoColor=white)
+
+<br/>
+
+**Software Engineer II — Backend & Data Systems**
+`Series B SaaS Company` &nbsp;·&nbsp; `2021 – 2023` &nbsp;·&nbsp; Hybrid
+
+Joined as the fifth backend engineer and scaled the platform to support 10x user growth over 18 months. Core contributor to the data pipeline, billing infrastructure, and public API.
+
+- Re-architected the ETL pipeline from a monolithic cron job to an event-driven microservice system processing 50M+ records/day with < 5-minute end-to-end latency
+- Designed and implemented a usage-based billing engine with metered features, proration logic, and Stripe integration — enabling $2.1M in new ARR from enterprise contracts
+- Led migration from REST to GraphQL for the developer-facing API, reducing average payload size by 55% and eliminating 200+ over-fetching call patterns
+- Established an SLO framework with error budgets, driving the team from 99.5% to 99.95% monthly availability
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+<br/>
+
+**Software Engineering Intern — Full Stack**
+`Product Engineering Firm` &nbsp;·&nbsp; `Summer 2020` &nbsp;·&nbsp; On-site
+
+- Built a real-time collaborative document editor prototype using CRDTs (Yjs) and WebSocket infrastructure
+- Shipped 3 production features across a React + Node.js stack, each with full test coverage and analytics instrumentation
+
+---
+
+## ◈ Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|:---:|:---|
+| 🏆 ICPC Regional Finalist | Top 50 team — Asia-West Region, 2022 |
+| 🥇 Smart India Hackathon Winner | National-level winner, Ministry of Education track, 2022 |
+| 🥈 HackWithInfy Finalist | Top 20 nationwide across 150,000+ participants, 2021 |
+| ⭐ GitHub Arctic Code Vault Contributor | Contributed to repositories preserved in the 2020 Arctic Vault |
+| 📝 Technical Publication | Co-authored paper on efficient transformer inference — under review at EMNLP 2024 |
+| 🎓 University Gold Medalist | Highest CGPA in Computer Science department, graduating class |
+| 🚀 Open Source Impact | 1,200+ GitHub stars across personal projects · 40+ pull requests merged to top-10 repos |
+| 🔑 Engineering Blog | Published 12 in-depth technical articles · 80K+ total reads on Medium and personal blog |
+
+</div>
+
+---
+
+## ◈ Certifications
+
+<div align="center">
+
+**Amazon Web Services**
+
+[![AWS SAA](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
+[![AWS DVA](https://img.shields.io/badge/AWS-Developer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
+[![AWS MLA](https://img.shields.io/badge/AWS-ML%20Specialty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
+
+<br/>
+
+**Google Cloud**
+
+[![GCP ACE](https://img.shields.io/badge/GCP-Associate%20Cloud%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/certification)
+[![GCP PDE](https://img.shields.io/badge/GCP-Professional%20Data%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/certification)
+
+<br/>
+
+**NPTEL**
+
+[![NPTEL DSA](https://img.shields.io/badge/NPTEL-Data%20Structures%20%26%20Algorithms-2E4057?style=for-the-badge&logo=coursera&logoColor=white)](https://nptel.ac.in)
+[![NPTEL ML](https://img.shields.io/badge/NPTEL-Machine%20Learning-2E4057?style=for-the-badge&logo=coursera&logoColor=white)](https://nptel.ac.in)
+[![NPTEL DL](https://img.shields.io/badge/NPTEL-Deep%20Learning-2E4057?style=for-the-badge&logo=coursera&logoColor=white)](https://nptel.ac.in)
+
+<br/>
+
+**Cisco**
+
+[![Cisco CCNAv7](https://img.shields.io/badge/Cisco-CCNAv7%20Network%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com)
+[![Cisco CyberOps](https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com)
+
+</div>
+
+---
+
+## ◈ Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Knight%20%7C%201800%2B%20Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourusername)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-Institute%20Rank%20%231-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/yourusername)
+[![HackerRank](https://img.shields.io/badge/HackerRank-6⭐%20Problem%20Solver-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/yourusername)
+[![CodeChef](https://img.shields.io/badge/CodeChef-4★%20%7C%201900%2B%20Rating-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/yourusername)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Expert%20%7C%201600%2B-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/yourusername)
+
+</div>
+
+---
+
+## ◈ GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D1A&title_color=A855F7&icon_color=7C3AED&text_color=C4B5FD&ring_color=6D28D9"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=A855F7&text_color=C4B5FD"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true&background=0D0D1A&ring=7C3AED&fire=A855F7&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=6D28D9&currStreakNum=A855F7&sideNums=A855F7" />
+
+</div>
+
+---
+
+## ◈ GitHub Trophies
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## ◈ Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0D0D1A&color=A855F7&line=7C3AED&point=C4B5FD&area=true&area_color=6D28D9&hide_border=true&custom_title=Contribution%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## ◈ Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+## ◈ Current Focus
+
+```yaml
+learning:
+  - Agentic AI systems and multi-agent orchestration frameworks
+  - Advanced compiler design and LLVM IR optimization
+  - Formal verification methods for distributed systems
+  - Rust async runtimes and systems programming patterns
+
+building:
+  - Open-source LLM evaluation framework for production systems
+  - Distributed vector database with learned index structures
+  - Developer-first observability SDK for AI applications
+
+exploring:
+  - Speculative decoding and KV-cache optimization for LLM inference
+  - WebAssembly as a universal compute target for edge AI
+  - Homomorphic encryption for privacy-preserving ML pipelines
+
+open_to:
+  - Senior SWE and Staff Engineer roles (AI/ML, Backend, Platform)
+  - Technical co-founder conversations in the AI/developer tools space
+  - Conference talks and technical writing collaborations
+  - Open source maintainership in systems or AI infrastructure
+```
+
+---
+
+## ◈ Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-your@email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yourprofile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-yourusername-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-yourportfolio.dev-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
+
+</div>
+
+---
+
+<div align="center">
+
+*"The best systems are invisible in production — they are felt only by the speed at which they serve."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=footer" width="100%" />
+
+</div>
