@@ -1,5 +1,27 @@
 <div align="center">
 
+# 💀 SYSTEM BREACH IN PROGRESS 💀
+
+<img src="https://herokuapp.com" alt="Typing Animation" />
+
+```text
+=====================================================
+[████████████████████] 100% COMPILING...
+=====================================================
+```
+
+### ⚡ MAINFRAME MODULES
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev" />
+</a>
+
+### 📡 NETWORK STATS
+![Anurag's GitHub stats](https://vercel.app)
+![Top Langs](https://vercel.app)
+
+</div>
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=&animation=twinkling" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=2000&pause=800&color=39FF14&center=true&vCenter=true&multiline=false&repeat=true&width=900&lines=Hey+%F0%9F%91%8B+I'm+Spandan+Parhi;Data+Science+%26+AI+Engineer;Generative+AI+Explorer+%F0%9F%A4%96;Building+Intelligent+AI+Systems+%F0%9F%9A%80;LLMs+%7C+Agentic+AI+%7C+ML+Enthusiast" />
