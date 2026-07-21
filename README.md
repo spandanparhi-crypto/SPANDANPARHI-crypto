@@ -1,51 +1,45 @@
 <!-- ============================================= -->
-<!--        CYBERPUNK NEON GITHUB README          -->
+<!--       DATA SCIENCE CODE-THEME README         -->
 <!-- ============================================= -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Spandan+Parhi;Data+Science+Engineer;Machine+Learning+Enthusiast;Generative+AI+Explorer;Full+Stack+%2F+Python+Developer;Welcome+to+My+GitHub!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=%3E+whoami;Spandan_Parhi;%3E+cat+role.txt;Data+Science+Engineer;%3E+import+skills+as+ml;Machine+Learning+%7C+Generative+AI;%3E+echo+%22Welcome+to+my+GitHub%22" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:8A2BE2,100:39FF14&height=220&section=header&text=CYBERPUNK%20DEVELOPER&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:39FF14&height=220&section=header&text=DATA%20SCIENCE%20%7C%20CODE%20%26%20ANALYZE&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
 </div>
 
 ---
 
-## 💫 About Me
+## 💫 `about_me.py`
 
 <img align="right" width="300" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-```yaml
-Name: Spandan Parhi
-Location: Odisha, India
-Education: Electronics & Telecommunication Engineering Student
+```python
+class SpandanParhi:
+    def __init__(self):
+        self.name       = "Spandan Parhi"
+        self.location   = "Odisha, India"
+        self.education  = "Electronics & Telecommunication Engineering Student"
+        self.role       = ["Data Science Engineer",
+                            "Generative AI Explorer",
+                            "Machine Learning Enthusiast"]
 
-Role:
-  Data Science Engineer
-  Generative AI Explorer
-  Machine Learning Enthusiast
+    def currently_learning(self):
+        return ["Machine Learning", "Deep Learning", "LangChain",
+                "LangGraph", "CrewAI", "Agentic AI"]
 
-Currently Learning:
-  - Machine Learning
-  - Deep Learning
-  - LangChain
-  - LangGraph
-  - CrewAI
-  - Agentic AI
+    def loves(self):
+        return ["Open Source", "Data Analytics", "Automation", "AI Systems"]
 
-Love:
-  - Open Source
-  - Data Analytics
-  - Automation
-  - AI Systems
-
-Goal: Transforming Data Into Intelligence 🚀
+    def goal(self):
+        return "Transforming Data Into Intelligence 🚀"
 ```
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ `tech_stack.json`
 
 **Languages & Core**
 <p align="center">
@@ -69,7 +63,7 @@ Goal: Transforming Data Into Intelligence 🚀
 
 ---
 
-## 🚀 GitHub Stats
+## 🚀 `github_stats.exe`
 
 <p align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=spandanparhi-crypto&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true"/>
@@ -82,7 +76,7 @@ Goal: Transforming Data Into Intelligence 🚀
 
 ---
 
-## 📈 Contribution Graph
+## 📈 `contribution_graph.plot()`
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=spandanparhi-crypto&bg_color=0d1117&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true"/>
@@ -90,7 +84,7 @@ Goal: Transforming Data Into Intelligence 🚀
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 `trophies.fetch()`
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=spandanparhi-crypto&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
@@ -98,7 +92,7 @@ Goal: Transforming Data Into Intelligence 🚀
 
 ---
 
-## 💻 GitHub Summary
+## 💻 `profile_summary.render()`
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spandanparhi-crypto&theme=github_dark"/>
@@ -106,29 +100,29 @@ Goal: Transforming Data Into Intelligence 🚀
 
 ---
 
-## 🎯 Current Focus
+## 🎯 `current_focus.py`
 
 ```python
-class SpandanParhi:
+import pandas as pd
+from sklearn.pipeline import Pipeline
 
-    def __init__(self):
-        self.role = "Future AI Engineer"
-        self.languages = ["Python", "SQL"]
-        self.interests = [
-            "Machine Learning",
-            "Generative AI",
-            "Agentic AI",
-            "Data Science",
-            "LLMs"
-        ]
+focus = {
+    "role":       "Future AI Engineer",
+    "stack":      ["Python", "SQL", "Pandas", "NumPy"],
+    "interests":  ["Machine Learning", "Generative AI",
+                   "Agentic AI", "Data Science", "LLMs"],
+    "status":     "training(myself, epochs=∞)"
+}
 
-    def goal(self):
-        return "Transforming Data Into Intelligence 🚀"
+def goal():
+    return "Transforming Data Into Intelligence 🚀"
+
+print(goal())
 ```
 
 ---
 
-## 💡 Random Dev Quote
+## 💡 `print(random_quote())`
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
@@ -136,7 +130,7 @@ class SpandanParhi:
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 `connect.socials()`
 
 <p align="center">
 
@@ -160,7 +154,7 @@ class SpandanParhi:
 
 ---
 
-## 👀 Profile Views
+## 👀 `console.log(profile_views)`
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=spandanparhi-crypto&label=PROFILE+VIEWS&color=39FF14&style=for-the-badge"/>
@@ -170,12 +164,12 @@ class SpandanParhi:
 
 <div align="center">
 
-## 🚀 Transforming Data Into Intelligence
+## `>>> Transforming Data Into Intelligence`
 
 ### ⭐ Open Source Learner | AI Enthusiast | Future AI Engineer ⭐
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=39FF14&center=true&width=700&lines=Happy+Coding!;See+You+Again!;Keep+Building!"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF14&center=true&width=700&lines=%3E+status%3A+compiling_knowledge...;%3E+status%3A+model.fit(life)+%E2%9C%94;%3E+echo+%22Keep+Building!%22"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:8A2BE2,100:00F7FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:39FF14&height=120&section=footer"/>
 
 </div>
