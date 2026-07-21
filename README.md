@@ -4,9 +4,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=%3E+whoami;Spandan_Parhi;%3E+cat+role.txt;Data+Science+Engineer;%3E+import+skills+as+ml;Machine+Learning+%7C+Generative+AI;%3E+echo+%22Welcome+to+my+GitHub%22" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=32&amp;duration=3000&amp;pause=1000&amp;color=39FF14&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=%3E+whoami;Spandan_Parhi;%3E+cat+role.txt;Data+Science+Engineer;%3E+import+skills+as+ml;Machine+Learning+%7C+Generative+AI;%3E+echo+%22Welcome+to+my+GitHub%22" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:39FF14&height=220&section=header&text=DATA%20SCIENCE%20%7C%20CODE%20%26%20ANALYZE&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:1f6feb,100:39FF14&amp;height=220&amp;section=header&amp;text=DATA%20SCIENCE%20%7C%20CODE%20%26%20ANALYZE&amp;fontSize=32&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=40"/>
 
 </div>
 
@@ -21,7 +21,7 @@ class SpandanParhi:
     def __init__(self):
         self.name       = "Spandan Parhi"
         self.location   = "Odisha, India"
-        self.education  = "Electronics & Telecommunication Engineering Student"
+        self.education  = "Electronics &amp; Telecommunication Engineering Student"
         self.role       = ["Data Science Engineer",
                             "Generative AI Explorer",
                             "Machine Learning Enthusiast"]
@@ -41,19 +41,19 @@ class SpandanParhi:
 
 ## ⚡ `tech_stack.json`
 
-**Languages & Core**
+**Languages &amp; Core**
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,mysql,html,css,javascript"/>
 </p>
 
-**Data & ML**
+**Data &amp; ML**
 <p align="center">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Generative%20AI-red?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LLMs-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&amp;logo=powerbi&amp;logoColor=black"/>
 </p>
 
 **Tools**
@@ -66,12 +66,12 @@ class SpandanParhi:
 ## 🚀 `github_stats.exe`
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=spandanparhi-crypto&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=spandanparhi-crypto&theme=chartreuse-dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=spandanparhi-crypto&amp;show_icons=true&amp;theme=chartreuse-dark&amp;hide_border=true&amp;count_private=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=spandanparhi-crypto&amp;theme=chartreuse-dark&amp;hide_border=true"/>
 </p>
 
 <p align="center">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spandanparhi-crypto&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spandanparhi-crypto&amp;layout=compact&amp;theme=chartreuse-dark&amp;hide_border=true"/>
 </p>
 
 ---
@@ -79,7 +79,7 @@ class SpandanParhi:
 ## 📈 `contribution_graph.plot()`
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=spandanparhi-crypto&bg_color=0d1117&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=spandanparhi-crypto&amp;bg_color=0d1117&amp;color=39FF14&amp;line=39FF14&amp;point=FFFFFF&amp;area=true&amp;hide_border=true"/>
 </p>
 
 ---
@@ -87,7 +87,7 @@ class SpandanParhi:
 ## 🏆 `trophies.fetch()`
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=spandanparhi-crypto&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=spandanparhi-crypto&amp;theme=radical&amp;no-frame=true&amp;margin-w=10&amp;margin-h=10"/>
 </p>
 
 ---
@@ -95,7 +95,7 @@ class SpandanParhi:
 ## 💻 `profile_summary.render()`
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spandanparhi-crypto&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spandanparhi-crypto&amp;theme=github_dark"/>
 </p>
 
 ---
@@ -125,7 +125,7 @@ print(goal())
 ## 💡 `print(random_quote())`
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=dark"/>
 </p>
 
 ---
@@ -135,19 +135,19 @@ print(goal())
 <p align="center">
 
 <a href="https://www.linkedin.com/in/spandan-parhi-852011414">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
 </a>
 
 <a href="https://github.com/spandanparhi-crypto">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
 </a>
 
 <a href="mailto:spandanparhi019@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
 </a>
 
 <a href="https://fragile-green-8utzxh0t.edgeone.dev/">
-<img src="https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=vercel&logoColor=black"/>
+<img src="https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&amp;logo=vercel&amp;logoColor=black"/>
 </a>
 
 </p>
@@ -157,7 +157,7 @@ print(goal())
 ## 👀 `console.log(profile_views)`
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=spandanparhi-crypto&label=PROFILE+VIEWS&color=39FF14&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=spandanparhi-crypto&amp;label=PROFILE+VIEWS&amp;color=39FF14&amp;style=for-the-badge"/>
 </p>
 
 ---
@@ -168,8 +168,8 @@ print(goal())
 
 ### ⭐ Open Source Learner | AI Enthusiast | Future AI Engineer ⭐
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF14&center=true&width=700&lines=%3E+status%3A+compiling_knowledge...;%3E+status%3A+model.fit(life)+%E2%9C%94;%3E+echo+%22Keep+Building!%22"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=39FF14&amp;center=true&amp;width=700&amp;lines=%3E+status%3A+compiling_knowledge...;%3E+status%3A+model.fit(life)+%E2%9C%94;%3E+echo+%22Keep+Building!%22"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:39FF14&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:1f6feb,100:39FF14&amp;height=120&amp;section=footer"/>
 
 </div>
