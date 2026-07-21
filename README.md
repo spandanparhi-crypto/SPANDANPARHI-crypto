@@ -1,181 +1,91 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:00C9A7&height=220&section=header&text=Spandan%20Parhi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20Engineer%20%7C%20GenAI%20Explorer%20%7C%20ML%20Enthusiast&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:39FF14&height=220&section=header&text=Spandan%20Parhi&fontSize=55&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Engineer%20%7C%20GenAI%20Explorer%20%7C%20Agentic%20AI%20Builder&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1800&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Spandan+%F0%9F%91%8B;Data+Science+Engineer+%F0%9F%93%8A;Machine+Learning+Enthusiast+%F0%9F%A4%96;Generative+AI+Explorer+%F0%9F%94%AE;Building+AI+Powered+Solutions+%E2%9A%A1;Welcome+To+My+GitHub+Profile+%F0%9F%9A%80" />
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=spandanparhi-crypto&label=PROFILE+VIEWS&color=39FF14&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/spandanparhi-crypto?label=Followers&style=for-the-badge&color=39FF14"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1800&pause=900&color=39FF14&center=true&vCenter=true&width=900&lines=Hi+There%2C+I'm+Spandan+%F0%9F%91%8B;Data+Science+Engineer+%F0%9F%93%8A;Machine+Learning+Enthusiast+%F0%9F%A4%96;Generative+AI+%26+LLM+Explorer+%E2%9C%A8;Agentic+AI+Builder+%F0%9F%9A%80;Python+%7C+LangChain+%7C+LangGraph+%7C+CrewAI;Welcome+To+My+GitHub+Terminal+%F0%9F%92%BB" />
 
 </div>
 
----
+<img align="right" alt="Coding GIF" width="380" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-## 📌 Quick Dashboard
+```bash
+spandan@github:~$ whoami
+```
 
-<table width="100%">
-<tr>
-<td width="34%" valign="top">
-
-**📇 Spandan Parhi**
-🎓 Joined GitHub · Odisha, India
-📧 spandanparhi019@gmail.com
-
-🌱 Currently learning **ML · LangChain · Agentic AI**
-🚀 Building AI-powered solutions
-
-<img src="https://streak-stats.demolab.com?user=spandanparhi-crypto&theme=chartreuse-dark&hide_border=true&card_width=340"/>
-
-</td>
-<td width="33%" valign="top">
-
-**⭐ Starred Topics**
-
-<img src="https://skillicons.dev/icons?i=python,pandas,numpy,scikitlearn,tensorflow,git,github,mysql,html,css,javascript,vscode"/>
-
-<br/>
-
-**🏅 Focus Areas**
-
-<img src="https://img.shields.io/badge/Machine%20Learning-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/Generative%20AI-red?style=flat-square"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
-<img src="https://img.shields.io/badge/Agentic%20AI-black?style=flat-square"/>
-
-</td>
-<td width="33%" valign="top">
-
-**📊 Profile Stats**
-
-<img src="https://github-readme-stats.vercel.app/api?username=spandanparhi-crypto&show_icons=true&theme=chartreuse-dark&hide_border=true&card_width=340"/>
-
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td width="66%" valign="top">
-
-**⚡ Recent Activity**
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=spandanparhi-crypto&bg_color=0d1117&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true&height=260"/>
-
-</td>
-<td width="34%" valign="top">
-
-**🔗 Reach Me**
-
-<a href="https://www.linkedin.com/in/spandan-parhi-852011414"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><br/>
-<a href="mailto:spandanparhi019@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a><br/>
-<img src="https://komarev.com/ghpvc/?username=spandanparhi-crypto&label=VIEWS&color=39FF14&style=for-the-badge"/><br/>
-<img src="https://img.shields.io/github/followers/spandanparhi-crypto?label=FOLLOWERS&style=for-the-badge&color=39FF14"/>
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/Power%20BI-black?style=for-the-badge&logo=powerbi"/>
-<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ask%20me-Anything-39FF14?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/spandanparhi-crypto?style=for-the-badge&color=39FF14&label=STAR"/>
-<img src="https://img.shields.io/github/forks/spandanparhi-crypto?style=for-the-badge&color=39FF14&label=FORKS"/>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-<img align="right" alt="AI Hacker" width="380" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-
-- 🎓 Electronics & Telecommunication Engineering Student
-- 📊 Aspiring **Data Scientist & AI Engineer**
-- 🤖 Passionate about **Generative AI, LLMs & Agentic AI**
-- 🐍 Python Developer
-- 📈 Power BI & Data Analytics Enthusiast
-- 🧠 Currently exploring:
-  - Machine Learning
-  - Deep Learning
-  - LangChain
-  - LangGraph
-  - CrewAI
-  - Agentic AI
-- 🚀 **Goal:** Build intelligent AI systems that solve real-world problems
-- 📍 Odisha, India
-- 📧 **spandanparhi019@gmail.com**
+```yaml
+name: Spandan Parhi
+role: Aspiring Data Scientist & AI Engineer
+education: Electronics & Telecommunication Engineering Student
+location: Odisha, India
+focus: [Generative AI, LLMs, Agentic AI, Data Science]
+currently_learning: [Machine Learning, Deep Learning, LangChain, LangGraph, CrewAI, Agentic AI]
+mission: "Transforming Data Into Intelligence 🚀"
+contact: spandanparhi019@gmail.com
+```
 
 <br clear="right"/>
 
 ---
 
+<div align="center">
+
 ## 🌐 Connect With Me
 
-<p align="center">
-<a href="https://www.linkedin.com/in/spandan-parhi-852011414" target="_blank">
+<a href="https://www.linkedin.com/in/spandan-parhi-852011414">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/spandanparhi-crypto" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/spandanparhi-crypto">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=39FF14"/>
 </a>
 <a href="mailto:spandanparhi019@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://fragile-green-8utzxh0t.edgeone.dev/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=vercel&logoColor=black"/>
+<a href="https://fragile-green-8utzxh0t.edgeone.dev/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=39FF14"/>
 </a>
-</p>
+
+<img src="https://komarev.com/ghpvc/?username=spandanparhi-crypto&label=PROFILE+VIEWS&color=39FF14&style=for-the-badge"/>
+
+</div>
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Tech Arsenal
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,html,css,javascript,pandas,numpy,tensorflow,scikitlearn" />
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,html,css,javascript,pandas,numpy,tensorflow,sklearn"/>
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Generative%20AI-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agentic%20AI-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Science-39FF14?style=for-the-badge&logo=databricks&logoColor=black"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Generative%20AI-red?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-purple?style=for-the-badge&logo=huggingface&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-0d1117?style=for-the-badge&logo=robotframework&logoColor=39FF14"/>
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=spandanparhi-crypto&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spandanparhi-crypto&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=spandanparhi-crypto&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spandanparhi-crypto&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14"/>
 </p>
 
 <p align="center">
-<img width="70%" src="https://streak-stats.demolab.com?user=spandanparhi-crypto&theme=chartreuse-dark&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=spandanparhi-crypto&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14"/>
 </p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=spandanparhi-crypto&theme=chartreuse-dark&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-## 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=spandanparhi-crypto&bg_color=0d1117&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-trophy.vercel.app/?username=spandanparhi-crypto&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7"/>
 </p>
 
 ---
@@ -186,7 +96,7 @@
 <img src="https://raw.githubusercontent.com/spandanparhi-crypto/spandanparhi-crypto/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
-> ℹ️ To activate the snake animation above, set up the [platane/snk](https://github.com/Platane/snk) GitHub Action on your profile repo — it generates that SVG automatically.
+> 💡 To activate this snake animation, add the `snk` GitHub Action workflow to your profile repo — it auto-generates and commits this SVG on a schedule.
 
 ---
 
@@ -213,8 +123,10 @@ class SpandanParhi:
     def __init__(self):
         self.role = "Future AI Engineer"
         self.languages = ["Python", "SQL"]
+        self.frameworks = ["LangChain", "LangGraph", "CrewAI"]
         self.interests = [
             "Machine Learning",
+            "Deep Learning",
             "Generative AI",
             "Agentic AI",
             "Data Science",
@@ -223,6 +135,9 @@ class SpandanParhi:
 
     def goal(self):
         return "Transforming Data Into Intelligence 🚀"
+
+    def status(self):
+        return "🟢 Online | Building AI-powered solutions"
 
 
 me = SpandanParhi()
@@ -233,12 +148,12 @@ print(me.goal())
 
 <div align="center">
 
-## 🚀 Transforming Data Into Intelligence
+### 🚀 Transforming Data Into Intelligence
 
-### ⭐ Open Source Learner | AI Enthusiast | Future AI Engineer
+⭐ **Open Source Learner** &nbsp;|&nbsp; 🤖 **AI Enthusiast** &nbsp;|&nbsp; 🔮 **Future AI Engineer**
 
-<a href="https://fragile-green-8utzxh0t.edgeone.dev/" target="_blank">🔗 Visit My Portfolio</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+intelligent+together+%F0%9F%A4%9D" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:39FF14&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:0d1117&height=120&section=footer"/>
 
 </div>
