@@ -13,6 +13,82 @@
 
 ---
 
+## 📌 Quick Dashboard
+
+<table width="100%">
+<tr>
+<td width="34%" valign="top">
+
+**📇 Spandan Parhi**
+🎓 Joined GitHub · Odisha, India
+📧 spandanparhi019@gmail.com
+
+🌱 Currently learning **ML · LangChain · Agentic AI**
+🚀 Building AI-powered solutions
+
+<img src="https://streak-stats.demolab.com?user=spandanparhi-crypto&theme=chartreuse-dark&hide_border=true&card_width=340"/>
+
+</td>
+<td width="33%" valign="top">
+
+**⭐ Starred Topics**
+
+<img src="https://skillicons.dev/icons?i=python,pandas,numpy,scikitlearn,tensorflow,git,github,mysql,html,css,javascript,vscode"/>
+
+<br/>
+
+**🏅 Focus Areas**
+
+<img src="https://img.shields.io/badge/Machine%20Learning-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Generative%20AI-red?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-black?style=flat-square"/>
+
+</td>
+<td width="33%" valign="top">
+
+**📊 Profile Stats**
+
+<img src="https://github-readme-stats.vercel.app/api?username=spandanparhi-crypto&show_icons=true&theme=chartreuse-dark&hide_border=true&card_width=340"/>
+
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="66%" valign="top">
+
+**⚡ Recent Activity**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=spandanparhi-crypto&bg_color=0d1117&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true&height=260"/>
+
+</td>
+<td width="34%" valign="top">
+
+**🔗 Reach Me**
+
+<a href="https://www.linkedin.com/in/spandan-parhi-852011414"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><br/>
+<a href="mailto:spandanparhi019@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a><br/>
+<img src="https://komarev.com/ghpvc/?username=spandanparhi-crypto&label=VIEWS&color=39FF14&style=for-the-badge"/><br/>
+<img src="https://img.shields.io/github/followers/spandanparhi-crypto?label=FOLLOWERS&style=for-the-badge&color=39FF14"/>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/Power%20BI-black?style=for-the-badge&logo=powerbi"/>
+<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ask%20me-Anything-39FF14?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/spandanparhi-crypto?style=for-the-badge&color=39FF14&label=STAR"/>
+<img src="https://img.shields.io/github/forks/spandanparhi-crypto?style=for-the-badge&color=39FF14&label=FORKS"/>
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
 <img align="right" alt="AI Hacker" width="380" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
