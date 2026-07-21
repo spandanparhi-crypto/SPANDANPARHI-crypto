@@ -116,10 +116,10 @@ status: online 🟢
 ## `> contribution_skyline --render=3D`
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/master/gif/spandanparhi-crypto.gif" width="90%"/>
+<img src="./profile-3d-contrib/profile-night-rainbow.gif" width="90%"/>
 </p>
 
-> 🏙️ 3D contribution skyline — generated via [`github-profile-3d-contrib`](https://github.com/yoshi389111/github-profile-3d-contrib) GitHub Action (workflow included below).
+> 🏙️ 3D contribution calendar rendered on a skyline image, generated automatically by the [`github-profile-3d-contrib`](https://github.com/yoshi389111/github-profile-3d-contrib) GitHub Action — see `.github/workflows/skyline.yml` below. The action commits the GIF into a `profile-3d-contrib/` folder in this repo on every run, which is what the image above points to.
 
 ---
 
@@ -139,7 +139,7 @@ status: online 🟢
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=39FF14&bar_color_cover=true" width="60%"/>
 </p>
 
-> 🎧 Connect your own Spotify with [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) to activate this widget with your live listening status.
+> 🎧 Powered by [`spotify-github-profile`](https://github.com/kittinan/spotify-github-profile) — a Vercel serverless function backed by Firebase, which stores only your `access_token`, `refresh_token`, and `token_expired_timestamp`. Deploy your own instance, authorize it with Spotify, then drop your `uid` into the `uid=` parameter above to go live.
 
 ---
 
@@ -148,16 +148,22 @@ status: online 🟢
 
 <p align="center">
 
-<a href="https://github.com/spandanparhi-crypto">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=spandanparhi-crypto&repo=REPO_NAME_1&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14"/>
+<a href="https://github.com/spandanparhi-crypto/CREW_AI_LAPTOP_RECOMMENDATION-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=spandanparhi-crypto&repo=CREW_AI_LAPTOP_RECOMMENDATION-&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14"/>
 </a>
-<a href="https://github.com/spandanparhi-crypto">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=spandanparhi-crypto&repo=REPO_NAME_2&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14"/>
+<a href="https://github.com/spandanparhi-crypto/SMART_TRAFFIC-LIGHT_CONTROLLER">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=spandanparhi-crypto&repo=SMART_TRAFFIC-LIGHT_CONTROLLER&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14"/>
 </a>
 
 </p>
 
-> ✏️ Replace `REPO_NAME_1` / `REPO_NAME_2` with your actual repository names to pin real projects here.
+<p align="center">
+
+🤖 <a href="https://github.com/spandanparhi-crypto/CREW_AI_LAPTOP_RECOMMENDATION-"><b>CrewAI Laptop Recommendation</b></a> — a multi-agent AI system built with CrewAI that recommends laptops based on user requirements.
+<br>
+🚦 <a href="https://github.com/spandanparhi-crypto/SMART_TRAFFIC-LIGHT_CONTROLLER"><b>Smart Traffic Light Controller</b></a> — an intelligent traffic light control system project.
+
+</p>
 
 ---
 
