@@ -10,6 +10,16 @@
 <img src="https://img.shields.io/github/followers/spandanparhi-crypto?label=FOLLOWERS&style=for-the-badge&color=00F5FF&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-39FF14?style=for-the-badge&labelColor=0d1117"/>
 
+<br/><br/>
+
+<!-- Animated moving logos strip -->
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60">
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="60">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60">
+
 </div>
 
 <br>
@@ -66,6 +76,14 @@ contact: spandanparhi019@gmail.com
 <a href="https://fragile-green-8utzxh0t.edgeone.dev/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=39FF14&labelColor=0d1117"/>
 </a>
+
+<!-- Animated social icons -->
+<br/><br/>
+<img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="45">
+<img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="45">
+<img src="https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif" width="45">
+<img src="https://user-images.githubusercontent.com/74038190/235294009-98ca7572-795f-4056-b2c1-ccbde3f2982e.gif" width="45">
+<img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="45">
 
 </div>
 
@@ -232,6 +250,20 @@ print(me.goal())
 
 ---
 
+## 😄 A Little Fun (Animated Vibes)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="180">
+<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="180">
+<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="180">
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
+</p>
+
+---
+
 <div align="center">
 
 ## 🚀 Transforming Data Into Intelligence
@@ -241,7 +273,11 @@ print(me.goal())
 <br>
 
 ### 💻 Portfolio
-🔗 **](https://fragile-green-8utzxh0t.edgeone.dev/)**
+🔗 **[Visit My Portfolio](https://fragile-green-8utzxh0t.edgeone.dev/)**
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="120">
 
 </div>
 
