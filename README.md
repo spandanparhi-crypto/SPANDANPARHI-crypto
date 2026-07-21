@@ -45,6 +45,32 @@
 
 [![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/spandanparhi-crypto)
 
+## 🔑 System Access
+
+<p align="center">
+<a href="https://fragile-green-8utzxh0t.edgeone.dev/">
+<img width="82%" src="https://img.shields.io/badge/🌐%20PORTAL-Spandan%20Parhi%20System-0d1117?style=for-the-badge&labelColor=0d1117&color=39FF14" alt="Spandan System portal" />
+</a>
+</p>
+
+<p align="center">
+
+<a href="https://fragile-green-8utzxh0t.edgeone.dev/">
+<img width="32%" src="https://img.shields.io/badge/🧠%20AI%20LAB-Explorations-181717?style=for-the-badge&labelColor=181717&color=39FF14" alt="AI Lab" />
+</a>
+<a href="https://github.com/spandanparhi-crypto?tab=repositories">
+<img width="32%" src="https://img.shields.io/badge/📊%20DATA%20LAB-Projects-181717?style=for-the-badge&labelColor=181717&color=39FF14" alt="Data Lab" />
+</a>
+<a href="https://github.com/spandanparhi-crypto?tab=repositories">
+<img width="32%" src="https://img.shields.io/badge/🤖%20MODEL%20FORGE-Builds-181717?style=for-the-badge&labelColor=181717&color=39FF14" alt="Model Forge" />
+</a>
+
+</p>
+
+> 💡 Swap these badge links for your own custom SVG panels once you build a `docs/img/` set for your profile repo — for now they route to your portfolio and repositories.
+
+[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/spandanparhi-crypto)
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -69,6 +95,50 @@
 
 [![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/spandanparhi-crypto)
 
+## 🛠 Technologies, Projects & Domains
+
+<table border="0" cellspacing="10" cellpadding="0">
+<tr>
+
+<!-- TECH -->
+<td width="420" valign="top" align="center">
+
+<h3>🛠 Technologies</h3>
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,html,css,javascript,pandas,numpy" />
+
+</td>
+
+<!-- PROJECTS -->
+<td width="260" valign="top" align="center">
+
+<h3>🧪 Projects</h3>
+<br>
+
+<a href="https://github.com/spandanparhi-crypto?tab=repositories">
+<img src="https://img.shields.io/badge/View%20All-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects navigation panel">
+</a>
+
+</td>
+
+<!-- AI DOMAINS -->
+<td width="260" valign="top" align="center">
+
+<h3>🧠 AI Domains</h3>
+<br>
+
+<img src="https://img.shields.io/badge/Generative%20AI-red?style=for-the-badge"/><br><br>
+<img src="https://img.shields.io/badge/Agentic%20AI-teal?style=for-the-badge"/><br><br>
+<img src="https://img.shields.io/badge/LLMs-purple?style=for-the-badge"/>
+
+</td>
+
+</tr>
+</table>
+
+[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/spandanparhi-crypto)
+
 ## ⚡ Tech Stack
 
 <p align="center">
@@ -86,7 +156,7 @@
 
 [![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/spandanparhi-crypto)
 
-## 📊 GitHub Statistics
+## 📊 Vital Statistics
 
 <p align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=spandanparhi-crypto&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true"/>
@@ -151,6 +221,60 @@ class SpandanParhi:
 
 [![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/spandanparhi-crypto)
 
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+<tr>
+
+<!-- COLLAB -->
+<td width="33%" valign="top">
+
+<h2>🤝 Collaboration</h2>
+
+I'm open to collaborating on:
+
+<ul>
+  <li>Data science & analytics projects</li>
+  <li>Generative AI & LLM applications</li>
+  <li>Agentic AI systems (LangChain, LangGraph, CrewAI)</li>
+  <li>Machine learning & Power BI dashboards</li>
+</ul>
+
+</td>
+
+<!-- PANEL -->
+<td width="34%" align="center" valign="middle">
+<a href="https://fragile-green-8utzxh0t.edgeone.dev/">
+<img src="https://img.shields.io/badge/Let's%20Build-Together-39FF14?style=for-the-badge&labelColor=0d1117" width="200px" alt="Collaboration navigation panel" />
+</a>
+</td>
+
+<!-- CONTACT -->
+<td width="33%" valign="top" align="center">
+
+<h2>📫 Contact</h2>
+
+<br>
+
+<a href="https://fragile-green-8utzxh0t.edgeone.dev/">
+  <img src="https://img.shields.io/badge/Portfolio-fragile--green--8utzxh0t.edgeone.dev-39FF14?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Personal website link">
+</a>
+<br><br>
+
+<a href="mailto:spandanparhi019@gmail.com">
+  <img src="https://img.shields.io/badge/email-spandanparhi019@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email contact link">
+</a>
+<br><br>
+
+<a href="https://www.linkedin.com/in/spandan-parhi-852011414">
+  <img src="https://img.shields.io/badge/linkedin-spandan--parhi-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn profile link">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/spandanparhi-crypto)
+
 <div align="center">
 
 ## 🚀 Transforming Data Into Intelligence
@@ -160,7 +284,22 @@ class SpandanParhi:
 </div>
 
 <p align="center">
+⚡ Building data-driven AI solutions, one project at a time
+</p>
+<p align="center">
 Star ⭐ the repos if they helped you!
+</p>
+
+<p align="center">
+  <a href="./CODE_OF_CONDUCT.md">Code of Conduct</a> ·
+  <a href="./CONTRIBUTING.md">Contributing</a> ·
+  <a href="./SECURITY.md">Security</a>
+</p>
+
+<p align="center">
+    <a href="docs/hidden/easter_egg.md">
+        <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/icons/devops/icon_heartbeat_node.svg" width="20px" alt="Hidden easter egg link">
+    </a>
 </p>
 
 <p align="center">
